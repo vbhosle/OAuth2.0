@@ -1,0 +1,2 @@
+clientID=423895802055-osn0n39h1bqeng4d9ruqcpd3iem9vlde.apps.googleusercontent.com
+clientSecret=Vi5dLt5k2ofpGGaEnrucf8DS
